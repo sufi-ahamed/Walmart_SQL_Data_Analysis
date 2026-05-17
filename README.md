@@ -11,10 +11,11 @@ Businesses generate large amounts of data daily, but raw data alone does not pro
 ## 📂 Dataset Source
 
 The dataset used in this analysis is publicly available on Kaggle:
-🔗 https://www.kaggle.com/datasets/mikhail1681/walmart-sales
+
+ 🔗 https://www.kaggle.com/datasets/mikhail1681/walmart-sales
 
 ## 🛠 Tools & Technologies
 
-## MySQL	Data extraction and SQL analytics
+## MySQL - Data extraction and SQL analytics
 
 
